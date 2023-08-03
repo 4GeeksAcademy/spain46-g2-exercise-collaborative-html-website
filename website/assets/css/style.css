@@ -1,3 +1,9 @@
 body{
     background: #BDBDBD;
 }
+.container {
+    margin: 30px;
+    }
+    .card-title {
+        color:rgb(41, 132, 177);
+          }
